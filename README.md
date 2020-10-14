@@ -37,12 +37,12 @@ In this project, I created analyzed current weather data from 600 cities around 
     -- weatherdata.csv:  
     ---- dataset of selected cities and their weather characteristics  
     ---- Columns (all values are current readings at time of request):  
-    ------ name: name of city  
-    ------ country: two letter abbreviation for country where city is located  
-    ------ clouds: cloudiness (%)  
-    ------ humidity: humidity (%)  
-    ------ temp: temperature (Fahrenheit)  
-    ------ max_temp: maximum currently observed temperature (Fahrenheit)  
-    ------ wind_spd: wind speed (mph)  
-    ------ lat: latitude (deg)  
-    ------ lon: longitude (deg)
+    ------ 'name': name of city  
+    ------ 'country': two letter abbreviation for country where city is located  
+    ------ 'clouds': cloudiness (%)  
+    ------ 'humidity': humidity (%)  
+    ------ 'temp': temperature (Fahrenheit)  
+    ------ 'max_temp': maximum currently observed temperature (Fahrenheit)  
+    ------ 'wind_spd': wind speed (mph)  
+    ------ 'lat': latitude (deg)  
+    ------ 'lon': longitude (deg)
