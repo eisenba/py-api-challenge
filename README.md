@@ -4,9 +4,9 @@ In this project, I created analyzed current weather data from 600 cities around 
   
 ## Files and Directories
 1. citylist.json
-   - JSON file containing city, country, and coordinates for cities whose weather data is available at openweathermap.org
-   - Columns:
-   -- 'id': id for the city
+   * JSON file containing city, country, and coordinates for cities whose weather data is available at openweathermap.org
+   * Columns:
+    *'id': id for the city
    -- 'name': name of city
    -- 'state': state where the city is located (US only)
    -- 'country': two letter abbreviation for the country where the city is located
