@@ -6,11 +6,11 @@ In this project, I created analyzed current weather data from 600 cities around 
 1. citylist.json
    - JSON file containing city, country, and coordinates for cities whose weather data is available at openweathermap.org
    - Columns:  
-   -- 'id': id for the city  
-   -- 'name': name of city  
-   -- 'state': state where the city is located (US only)  
-   -- 'country': two letter abbreviation for the country where the city is located  
-   -- 'coord': dictionary containing the latitude and longitude of the city. format = {'lon':longitude, 'lat':latitude}  
+   -- 'id' : id for the city  
+   -- 'name' : name of city  
+   -- 'state' : state where the city is located (US only)  
+   -- 'country' : two letter abbreviation for the country where the city is located  
+   -- 'coord' : dictionary containing the latitude and longitude of the city. format = {'lon':longitude, 'lat':latitude}  
    - obtained from http://bulk.openweathermap.org/sample/ on 10/13/2020
 2. VacationPy
    - Directory containing the vacation location analysis. 
@@ -37,12 +37,12 @@ In this project, I created analyzed current weather data from 600 cities around 
     -- weatherdata.csv:  
     ---- dataset of selected cities and their weather characteristics  
     ---- Columns (all values are current readings at time of request):  
-    ------ 'name': name of city  
-    ------ 'country': two letter abbreviation for country where city is located  
-    ------ 'clouds': cloudiness (%)  
-    ------ 'humidity': humidity (%)  
-    ------ 'temp': temperature (Fahrenheit)  
-    ------ 'max_temp': maximum currently observed temperature (Fahrenheit)  
-    ------ 'wind_spd': wind speed (mph)  
-    ------ 'lat': latitude (deg)  
-    ------ 'lon': longitude (deg)
+    ------ 'name' : name of city  
+    ------ 'country' : two letter abbreviation for country where city is located  
+    ------ 'clouds' : cloudiness (%)  
+    ------ 'humidity' : humidity (%)  
+    ------ 'temp' : temperature (Fahrenheit)  
+    ------ 'max_temp' : maximum currently observed temperature (Fahrenheit)  
+    ------ 'wind_spd' : wind speed (mph)  
+    ------ 'lat' : latitude (deg)  
+    ------ 'lon' : longitude (deg)
