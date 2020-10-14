@@ -1,5 +1,5 @@
 # API-Challenge
-In this project, I created analyzed current weather data from 600 cities around the world and identified suitable vacation locations based on weather criteria. WeatherPy analyzes compiles and analyzes the current weather. VacationPy identifies suitable vacation locations and plots them on a map. Below is a list of the values returned and a list of the included files.
+In this project, I created analyzed current weather data from 600 cities around the world and identified suitable vacation locations based on weather criteria. WeatherPy analyzes compiles and analyzes the current weather. VacationPy identifies suitable vacation locations and plots them on a map. Below is a description of the included files and directories.
 **Caution: running WeatherPy.ipynb will overwrite the existing output. If you would like to keep the existing output, copy outputs to a new file location.**
   
 ## Files and Directories
