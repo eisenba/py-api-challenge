@@ -26,11 +26,16 @@ In this project, I created analyzed current weather data from 600 cities around 
     -- Cities are selected as a sample of all cities available so results vary each time the notebook is run  
     - outputs:  
     -- Directory containing the results of analysis  
-    -- LatCloud.png: Scatter plot of latitude vs cloudiness(%) in selected cities  
-    -- LatHumid.png: Scatter plot of latitude vs humidity(%) in selected cities  
-    -- LatTemp.png: Scatter plot of latitude vs temperature(deg F) in selected cities  
-    -- LatWind.png: Scatter plot of latitude vs wind speed(mph) in selected cities  
-    -- weatherdata.csv: dataset of selected cities and their weather characteristics  
+    -- LatCloud.png:  
+    ---- Scatter plot of latitude vs cloudiness(%) in selected cities  
+    -- LatHumid.png:  
+    ---- Scatter plot of latitude vs humidity(%) in selected cities  
+    -- LatTemp.png:  
+    ----Scatter plot of latitude vs temperature(deg F) in selected cities  
+    -- LatWind.png:  
+    ---- Scatter plot of latitude vs wind speed(mph) in selected cities  
+    -- weatherdata.csv:  
+    ---- dataset of selected cities and their weather characteristics  
     ---- Columns (all values are current readings at time of request):  
     ------ name: name of city  
     ------ country: two letter abbreviation for country where city is located  
